@@ -1,21 +1,21 @@
 const filmNews = [
     {
-        title: "John Waters Returning To Films With Liarmouth",
+        title: "Andor Should Have Made Mon Mothma Queer, and Still Can",
         description:
-            "The tome follows Marsha Sprinkle, a suitcase thief, scammer and master of disguise. Dogs and children hate her. Her own family wants her dead. She’s smart, she’s desperate, she’s disturbed, and she’s on the run with a big chip on her shoulder. They call her Liarmouth ― until one insane man makes her tell the truth…",
-        image: "https://images.bauerhosting.com/empire/2022/10/john-waters.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top",
+            "The Editor's Note: The following contains spoilers for Episodes 1-5 of Andor.Andor’s been showing us a different perspective on the Rebellion. Rather than stories of Jedi and massive space battles, Andor puts us into a much more precarious position, following the sparks of a growing rebellion struggling to organize. follows Marsha Sprinkle, a suitcase thief, scammer and master of disguise. Dogs and children hate her. Her own family wants her dead. She’s smart, she’s desperate, she’s disturbed, and she’s on the run with a big chip on her shoulder. They call her Liarmouth ― until one insane man makes her tell the truth…",
+        image: "https://m.media-amazon.com/images/M/MV5BNTgxYzBmM2ItY2JiYi00ZTdiLWI1YWUtMzBkNzNmYjVlNjc4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_SY300_CR200,0,200,300_AL_.jpg",
     },
     {
-        title: "Jennifer Lawrence Is Recovering In New Drama Causeway – See The Trailer        ",
+        title: "Saw's Jigsaw Isn't a Hero...He's a Jerk!        ",
         description:
-            "With Lila Neugebauer in the director's chair, working from a script by Ottessa Moshfegh, Luke Goebel and Elizabeth Sanders, Causeway finds Lawrence as Lynsey, a military engineer who has returned to the States from Afghanistan with a debilitating brain injury after an IED explosion.It's a painful and slow recovery as she relearns to walk and re-trains her memory, aided by a chatty but tender caretaker (Jayne Houdyshell). But when she returns home to New Orleans she has to face memories even more aching and formative than those she had in service: a reckoning with her childhood.",
-        image: "https://images.bauerhosting.com/empire/2022/10/causeway-main.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top",
+            "It’s not strange to see a horror movie where the villain thinks they’re some kind of hero. After all, every good horror film needs a motivated antagonist, and what’s a better motivation than one that is a twisted form of justice? It’s something that makes horror that much more uncomfortable; if you can see the bad guy’s side, it makes you feel like you have some kind of connection with them, and the last thing you want is to understand the guy running around killing and maiming.",
+        image: "https://m.media-amazon.com/images/M/MV5BNjVjZmQ4YWYtMzk2Zi00MjRkLWI5YTEtYjIxY2Q3MTNhYzM5XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_SY300_CR200,0,200,300_AL_.jpg",
     },
     {
         title: "Empire Podcast Black Panther: Wakanda Forever Trailer Breakdown Special",
         description:
-            "The second trailer for Black Panther: Wakanda Forever didn't hold back on the emotion that is clearly going to drive Ryan Coogler's MCU mega-sequel, following the tragic passing of Chadwick Boseman, but it also filled in more of the film's blanks, plot-wise, hinted at some major action sequences, and preserved the mystery of just who is going to take over as the new Black Panther.Plenty, then, for Chris Hewitt, Helen O'Hara, and Amon Warmann to dig into in this trailer breakdown special, recorded very late at night, and with one of us down with Covid, so if there's even more brain fog than usual, go easy on us. Enjoy.",
-        image: "https://images.bauerhosting.com/empire/2022/10/bp-wf-main-pod.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top",
+            "Trigger Warning: The following article references violence and sexual assault.There are many obstacles when adapting the story of a true crime to the big screen. It seems that ethical dilemmas, for one, are secondary to an audiences’ thirst for evil. In the case of Leopold and Loeb, there have been a number of attempts at bringing their depravity to the silver screen, with Alfred Hitchcock’s Rope (1948) and Richard Fleischer’s Compulsion (1959) being two of the more well-known depictions.",
+        image: "https://m.media-amazon.com/images/M/MV5BNjc4MmQ4MjUtNTZiOS00MDI0LTliY2EtNzYyNGZkMzVhNjY2XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_SY300_CR200,0,200,300_AL_.jpg",
     },
 ];
 export { filmNews };

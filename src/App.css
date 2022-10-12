@@ -1,7 +1,6 @@
 ul{
   float: right;
 }
-
  .card button{
     height:10px;
     width: 100%;
@@ -58,6 +57,7 @@ a:hover{
     background-color: #353434;
     display: grid;
     grid-template-columns: 40% 60%;
+    padding-top: 30px;
 }
 
 .containers img { 
